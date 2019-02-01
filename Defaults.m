@@ -2,11 +2,11 @@
 
 % Set path for PHtools and ouput file, PHanalysis
 
-phRootFilePath      = fullfile('~','Science','PHscales');
+phRootFilePath      = fullfile('~','Science','ProgHypso');
 
 phDataFilePath      = fullfile(phRootFilePath, 'PHdata');
 phToolsPath         = fullfile(phRootFilePath, 'PHtools','Core');
-phToolsPath         = fullfile(phRootFilePath, 'PHscales');
+phAnalysisFilePath     = fullfile(phRootFilePath, 'PHscales');
 topoToolboxFilePath = fullfile('~','Science','topotoolbox');
 
 
