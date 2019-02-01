@@ -1,11 +1,12 @@
 %% Define root paths
 
-groupArea = 'SantaMarta';
-
-Ac_sqKm = 0.01;
+groupArea = 'GabilanMesa';
+supercatchmentNum = [16];
+Ac_sqKm = 0.1;
 phStepLength = 10;
+phbBandThickness=5;
 
-AcSubFolderName = [num2str('Ac_sqkm'),'SqKmAc'];
+AcSubFolderName = [num2str(Ac_sqKm),'SqKmAc'];
 Defaults;
 
 addpath(phToolsPath)
@@ -18,13 +19,13 @@ addpath(topoToolboxFilePath)
 pixelLength = 30; % in m
 Ac=((1000*1000)/(30*30))*Ac_sqKm; %convert sq km to pixel num
 minBenchLength=3;
-supercatchmentNum = [19];
+
 
 Colors;
 plotColor = blue;
 outputFigType = 'png';
-peakElevationForOutputFig = 4000;
-pdfHeight = 2500;
+peakElevationForOutputFig = 700;
+pdfHeight = 500;
 
 
 %%
