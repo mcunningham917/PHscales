@@ -1,7 +1,7 @@
 %% Define root paths
 
 groupArea = 'GabilanMesa';
-supercatchmentNum = [16];
+supercatchmentNum = [1,2];
 Ac_sqKm = 0.1;
 phStepLength = 10;
 phbBandThickness=5;
@@ -25,7 +25,10 @@ Colors;
 plotColor = blue;
 outputFigType = 'png';
 peakElevationForOutputFig = 700;
-pdfHeight = 500;
+pdfHeight = 350;
+
+upperMode  = 220;
+lowerMode = 120;
 
 
 %%
