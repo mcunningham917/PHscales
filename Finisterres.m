@@ -17,7 +17,7 @@ addpath(topoToolboxFilePath);
 % SupercatchmentNum can be a single value or list, and contains the ID
 % numbers for all supercatchments to be passed to PHRun.
 
-supercatchmentNum = [13];
+supercatchmentNum = [1:40];
 
 pixelLength = 30; % in m
 Ac=((1000*1000)/(30*30))*Ac_sqKm; %convert sq km to pixel num
@@ -27,7 +27,7 @@ minBenchLength=3;
 Colors;
 plotColor = blue;
 outputFigType = 'png';
-peakElevationForOutputFig = 4000;
+peakElevationForOutputFig = 4200;
 pdfHeight = 2500;
 
 
