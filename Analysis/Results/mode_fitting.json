@@ -1,5 +1,5 @@
 {
-   "CostaRica_Supercatchment11_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment11_allOutletModePairs": {
       "bimodal": {
          "mismatch": 6.040808370344679,
          "pdf": [
@@ -894,7 +894,7 @@
          ]
       }
    },
-   "CostaRica_Supercatchment16_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment16_allOutletModePairs": {
       "bimodal": {
          "mismatch": 4.89981111101324,
          "pdf": [
@@ -1789,7 +1789,7 @@
          ]
       }
    },
-   "CostaRica_Supercatchment19_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment19_allOutletModePairs": {
       "bimodal": {
          "mismatch": 2.2045659698907105,
          "pdf": [
@@ -2684,7 +2684,7 @@
          ]
       }
    },
-   "CostaRica_Supercatchment1_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment1_allOutletModePairs": {
       "bimodal": {
          "mismatch": 1.966100054998855,
          "pdf": [
@@ -3579,7 +3579,7 @@
          ]
       }
    },
-   "CostaRica_Supercatchment24_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment24_allOutletModePairs": {
       "bimodal": {
          "mismatch": 3.305553965834133,
          "pdf": [
@@ -4478,7 +4478,7 @@
          ]
       }
    },
-   "CostaRica_Supercatchment30_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment30_allOutletModePairs": {
       "bimodal": {
          "mismatch": 2.6876885031116204,
          "pdf": [
@@ -5375,7 +5375,7 @@
          ]
       }
    },
-   "CostaRica_Supercatchment9_allOutletModePairs": {
+   "CostaRica_Ac0p5km2_Supercatchment9_allOutletModePairs": {
       "bimodal": {
          "mismatch": 4.073263033763148,
          "pdf": [
@@ -6270,7 +6270,7 @@
          ]
       }
    },
-   "Finisterres_Supercatchment12_allOutletModePairs": {
+   "Finisterres_Ac0p5km2_Supercatchment12_allOutletModePairs": {
       "bimodal": {
          "mismatch": 2.7079691156550276,
          "pdf": [
@@ -7163,7 +7163,7 @@
          ]
       }
    },
-   "Finisterres_Supercatchment18_allOutletModePairs": {
+   "Finisterres_Ac0p5km2_Supercatchment18_allOutletModePairs": {
       "bimodal": {
          "mismatch": 2.5703090168744196,
          "pdf": [
@@ -8058,7 +8058,7 @@
          ]
       }
    },
-   "Finisterres_Supercatchment33_allOutletModePairs": {
+   "Finisterres_Ac0p5km2_Supercatchment33_allOutletModePairs": {
       "bimodal": {
          "mismatch": 3.280795107199587,
          "pdf": [
@@ -8955,7 +8955,7 @@
          ]
       }
    },
-   "Finisterres_Supercatchment37_allOutletModePairs": {
+   "Finisterres_Ac0p5km2_Supercatchment37_allOutletModePairs": {
       "bimodal": {
          "mismatch": 4.367960669456155,
          "pdf": [
@@ -9854,7 +9854,7 @@
          ]
       }
    },
-   "GabilanMesa_Supercatchment1_allOutletModePairs": {
+   "GabilanMesa_Ac0p1km2_Supercatchment1_allOutletModePairs": {
       "bimodal": {
          "mismatch": 1.4925389304086059,
          "pdf": [
@@ -10747,7 +10747,7 @@
          ]
       }
    },
-   "GabilanMesa_Supercatchment2_allOutletModePairs": {
+   "GabilanMesa_Ac0p1km2_Supercatchment2_allOutletModePairs": {
       "bimodal": {
          "mismatch": 1.5929353174365304,
          "pdf": [
@@ -11640,7 +11640,7 @@
          ]
       }
    },
-   "SanGabriel_Supercatchment132_allOutletModePairs": {
+   "SanGabriel_Ac0p5km2_Supercatchment132_allOutletModePairs": {
       "bimodal": {
          "mismatch": 3.4950516699448073,
          "pdf": [
@@ -12535,7 +12535,7 @@
          ]
       }
    },
-   "SantaMarta_Supercatchment19_allOutletModePairs": {
+   "SantaMarta_Ac0p5km2_Supercatchment19_allOutletModePairs": {
       "bimodal": {
          "mismatch": 1.835171516039188,
          "pdf": [
